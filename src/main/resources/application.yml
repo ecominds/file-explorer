@@ -1,0 +1,7 @@
+spring:
+  jmx: 
+    enabled: false
+  thymeleaf:
+    cache: false
+server:
+  port: 80
